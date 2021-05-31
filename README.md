@@ -1,1 +1,1 @@
-Here i'll try to recreate the google homepage.
+Here i'll try to recreate the Google homepage.
