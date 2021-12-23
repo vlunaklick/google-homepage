@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> In this project i recreated homepage of the search-broser: Google. It's just an apparence but it may be functional in a future.
+> In this project I recreated homepage of the search-browser: Google. It's just an apparence but it may be functional in a future.
 
 ### ✨ [Live View](https://vlunaklick.github.io/google-homepage/)
 
@@ -18,7 +18,7 @@
 👤 **vlunaklick**
 
 * Github: [@vlunaklick](https://github.com/vlunaklick)
-* LinkedIn: [@valentín-lunaklick](https://linkedin.com/in/valentín-lunaklick)
+* LinkedIn: [@vlunaklick](https://linkedin.com/in/vlunaklick)
 
 ## My Profile
 
