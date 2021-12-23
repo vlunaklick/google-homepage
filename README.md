@@ -7,12 +7,6 @@
 
 ### ✨ [Live View](https://vlunaklick.github.io/google-homepage/)
 
-### 🔧 Future Addons
-
-* Nocturne mode
-
-* Make the searcher working.
-
 ## Author
 
 👤 **vlunaklick**
